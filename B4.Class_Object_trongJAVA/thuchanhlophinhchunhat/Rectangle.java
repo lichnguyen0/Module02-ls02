@@ -28,16 +28,16 @@ public class Rectangle {
         this.height = height;
     }
 
-    public double getArea(){
-     return this.width * this.height;
+    public double getArea() {
+        return this.width * this.height;
     }
 
-    public double getPerimeter(){
+    public double getPerimeter() {
         return (this.width + this.height) * 2;
     }
 
-    public String disPlay(){
-        return "rectangle{"+ width + ", " + height + "}";
+    public String disPlay() {
+        return "rectangle{" + width + ", " + height + "}";
     }
 
 }

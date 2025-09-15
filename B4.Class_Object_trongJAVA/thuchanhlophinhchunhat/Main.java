@@ -13,7 +13,7 @@ public class Main {
 
         Rectangle rectangle = new Rectangle(width, height);
         System.out.println("Your Rectangle \n" + rectangle.disPlay());
-        System.out.println("Perimeter of the Rectangle: "+ rectangle.getPerimeter());
-        System.out.println("Area of the Rectangle: "+rectangle.getArea());
+        System.out.println("Perimeter of the Rectangle: " + rectangle.getPerimeter());
+        System.out.println("Area of the Rectangle: " + rectangle.getArea());
     }
 }
