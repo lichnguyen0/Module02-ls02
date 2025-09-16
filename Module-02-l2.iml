@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Class_Object_trongJAVA" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AccessModifier-StaticMethod-StaticProperty" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
