@@ -15,6 +15,5 @@ public class Main {
         //di chuyển lần nữa
         mp2.move();
         System.out.println("After moving again: "+mp2);
-
     }
 }

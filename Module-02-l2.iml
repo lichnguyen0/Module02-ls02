@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Class_Object_trongJAVA" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/AccessModifier-StaticMethod-StaticProperty" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/extends" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Abstract Class &amp; Interface" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
