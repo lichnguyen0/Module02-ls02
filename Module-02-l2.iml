@@ -10,9 +10,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Abstract Class &amp; Interface" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/cleancoderefactoring" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/dsadanhsach" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dsastackqueue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/javacollectionframework" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="junit" level="project" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
