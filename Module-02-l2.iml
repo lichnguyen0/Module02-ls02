@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/dsadanhsach" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/dsastackqueue" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/javacollectionframework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/thuattoantimkiem" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
