@@ -6,17 +6,17 @@ public class BinarySearch {
     static int binarySearch(int[] list, int key) {
         int low = 0;
         int high = list.length - 1;
-        while (low <= high) {
-            int mid = (low + high) / 2;
-            if (key < list[mid]) {
-                high = mid - 1;
-            } else if (key > list[mid]) {
-                return mid;
-            } else {
-                low = mid + 1;
+        while (high >= low) {
+            int mid = (low + high) / 2;   // lấy vị trí giữa
+            if (key < list[mid]) {        // nếu key nhỏ hơn phần tử giữa.
+                high = mid - 1;           // dịch phạm vi sang bên trái
+            } else if (key > list[mid]) { // nếu key lớn hơn phần tử giữa
+                low = mid + 1;            // dịch phạm vi sang bên phải
+            } else {                      // nếu key == list[mid]
+                return mid;               // trả về giá trị tìm thấy
             }
         }
-        return -1;
+        return -1;  //không tìm thấy.
     }
 
     public static void main(String[] args) {
